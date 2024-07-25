@@ -3,5 +3,5 @@ fastapi
 requests
 boto3==1.17.*
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.7.1+cpu
+torch==2.2.0
 torchvision==0.8.2+cpu
